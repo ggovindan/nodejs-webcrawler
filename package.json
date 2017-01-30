@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-webcrawler",
+  "version": "1.0.0",
+  "description": "A node js webcrawler that is kind of recursive",
+  "main": "rate_limit_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggovindan/nodejs-webcrawler.git"
+  },
+  "keywords": [
+    "nodejs",
+    "webcrawler"
+  ],
+  "author": "Guru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggovindan/nodejs-webcrawler/issues"
+  },
+  "homepage": "https://github.com/ggovindan/nodejs-webcrawler#readme"
+}
